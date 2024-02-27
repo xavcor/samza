@@ -12,5 +12,5 @@ val typesafe = "com.typesafe" % "config" % "1.4.0"
 libraryDependencies ++= Seq(
   samzaCore
   , samzaKafka
-  #, typesafe
+  , typesafe
 )
